@@ -1,4 +1,4 @@
 .gradle/
 build/
-.idea/
+.idea/uiDesigner.xml
 gradle/wrapper/gradle-wrapper.jar
